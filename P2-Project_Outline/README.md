@@ -26,3 +26,4 @@ Javascript
 How to use a Chat function
 ### Project Tracker
 https://trello.com/b/YlJcFwlR/liftoff-project-board-dec-2021
+https://miro.com/app/board/uXjVObn_KlY=/
