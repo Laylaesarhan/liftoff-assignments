@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My overview of the project.
+This project will be a music forum. We will connect with our users
+by being able to go through different music categories.
+You will also be able to chat with other users to discuss exciting new topics.
+There will be recommdations on the best options for the user.
 ### Features
-Include Features here
+Recommndations
+Chat
+Create Post
+Search
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Javascript
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to use a Chat function
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YlJcFwlR/liftoff-project-board-dec-2021
